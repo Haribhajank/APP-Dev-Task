@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "657847520374",
+    "project_id": "fir-authdemo-912a4",
+    "storage_bucket": "fir-authdemo-912a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657847520374:android:8bdb69e9f43cfcb8e72357",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657847520374-dauk6rdukim372tvr9o88m2h108sd0ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUeRtk3qYqvkSuHdelOkW5iaDW04Mt2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657847520374-dauk6rdukim372tvr9o88m2h108sd0ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657847520374:android:e7f4dcc6b4430383e72357",
+        "android_client_info": {
+          "package_name": "com.firebaseauthdemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657847520374-rvnetnbbuoeanlpvorkd7v6dd6t5q1cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseauthdemo1",
+            "certificate_hash": "ed9abc96d72060d18a81e2154615bf500412894f"
+          }
+        },
+        {
+          "client_id": "657847520374-dauk6rdukim372tvr9o88m2h108sd0ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUeRtk3qYqvkSuHdelOkW5iaDW04Mt2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657847520374-dauk6rdukim372tvr9o88m2h108sd0ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
